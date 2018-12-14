@@ -1,2 +1,2 @@
 # OpenCV
-OpenCV
+Just some basic OpenCV codes.
